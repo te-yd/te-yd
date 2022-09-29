@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Rithick
-- 👀 I’m interested in AI/ML
+- 👀 I’m interested in AI/ML, System Programming, Language Design etc.
 - 🌱 I’m currently learning Reinforcment Learning
 - 💞️ I’m looking to collaborate on Backend Applications
 
