@@ -6,7 +6,7 @@
 <a href="mailto:rithicks0629@outlook.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-rithicks0629@gmail.com-green?style=flat-square&logo=gmail">
 </a>
-<a href="https://www.linkedin.com/in/rithick-s-892272221/">
+<a href="https://www.linkedin.com/in/rithick-s/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rithick%20S-green?style=flat-square&logo=linkedin">
 </a>
 
